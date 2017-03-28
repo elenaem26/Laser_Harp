@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harp</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+</resources>
